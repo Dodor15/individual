@@ -1,0 +1,144 @@
+#upper{
+	position: absolute;
+	height: 107px;
+	left: 0%;
+	right: 0%;
+	top: 0px;
+
+	background: #177165;
+	border-radius: 0px;
+}
+
+#logo{
+	position: absolute;
+	height: 49px;
+	left: 0.76%;
+	right: 86.97%;
+	top: calc(50% - 49px/2 + 0.5px);
+
+	
+
+	background: url(image/Logo.png);
+	background-repeat: no-repeat;
+	border-radius: 0px;
+	}
+
+#menuText{
+	position: absolute;
+	height: 26px;
+	left: 30%;
+	right: 85.63%;
+	top: 40px;
+	
+
+	
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 26px;
+	color: #FFFFFF;
+}
+#about{
+	position: absolute;
+	top: 42px;
+	left: 40%;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 26px;
+	color: #A4D6CF;
+}
+#page{
+	position: absolute;
+	top: 40px;
+	left: 50%;
+	
+
+		font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 26px;
+	color: #A4D6CF;
+}
+
+#blog{
+	position: absolute;
+	top: 40px;
+	left: 60%;
+	
+
+		font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 26px;
+	color: #A4D6CF;
+}
+
+#contact{
+	position: absolute;
+	top: 40px;
+	left: 70%;
+	
+
+		font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 26px;
+	color: #A4D6CF;
+}
+
+#tele{
+	position: absolute;
+	width: 44px;
+	height: 44px;
+	right: 152px;
+	top: calc(50% - 44px/2);
+
+	
+
+	background: url(image/telephone.png);
+	border-radius: 0px;
+}
+#callUs{
+	position: absolute;
+	height: 30px;
+	left: 0%;
+	right: 53.28%;
+	top: 0px;
+	margin-left: 100%;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 29px;
+	/* identical to box height, or 172% */
+
+
+	color: #A4D6CF;
+}
+#number{
+	position: absolute;
+	height: 30px;
+	left: 0%;
+	right: 0%;
+	top: 29px;
+	margin-left: 100%;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 29px;
+	/* identical to box height, or 172% */
+
+
+	color: #FFFFFF;
+}
