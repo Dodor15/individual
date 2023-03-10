@@ -8,3 +8,349 @@ top: 3817px;
 background: #177165;
 border-radius: 0px;
 }
+
+#body{
+	width: 1440px;
+}
+
+#finalfinal{
+	position: absolute;
+	height: 66px;
+	left: 0%;
+	right: 0%;
+	top: 4472px;
+
+	background: #0A312C;
+	border-radius: 0px;
+}
+
+#theEnd{
+	position: absolute;
+width: 462px;
+height: 26px;
+left: calc(50% - 236px/2 - 115px);
+top: 25%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+#explore{
+
+	position: absolute;
+height: 33px;
+left: 150px;
+right: 35.96%;
+top: 166px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 33px;
+/* identical to box height, or 110% */
+
+
+color: #FFFFFF;
+}
+
+#Information{
+	position: absolute;
+height: 36px;
+left: 343px;
+right: 36.79%;
+top: 168px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height, or 120% */
+
+
+color: #FFFFFF;
+
+}
+
+#Service{
+	position: absolute;
+height: 36px;
+left: 633px;
+right: 41.34%;
+top: 168px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+/* identical to box height, or 120% */
+
+
+color: #FFFFFF;
+}
+
+#box{
+	position: absolute;
+height: 465px;
+left: 827px;
+width: 463px;
+right: 0%;
+top: 100px;
+
+background: #23786D;
+border-radius: 0px;
+}
+#logo2{
+	position: absolute;
+height: 49px;
+left: 70px;
+right: 49.89%;
+top: 70px;
+
+background: url(image/Logo.png);
+border-radius: 0px;
+}
+
+#finalText{
+	position: absolute;
+height: 78px;
+left: 70px;
+right: 21.17%;
+top: 207px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #FFFFFF;
+
+}
+
+#telephoneFinal{
+
+	position: absolute;
+width: 44px;
+height: 44px;
+left: 75px;
+top: 324px;
+
+background: url(image/telephone.png);
+border-radius: 0px;
+}
+
+
+#callUsFinal{
+	position: absolute;
+	height: 30px;
+	left: 149px;
+	right: 53%;
+	top: 317px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 29px;
+	/* identical to box height, or 172% */
+
+
+	color: #A4D6CF;
+}
+
+#telephone3{
+	position: absolute;
+	height: 30px;
+	left: 149px;
+	right: -0.28%;
+	top: 346px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 17px;
+	line-height: 29px;
+	/* identical to box height, or 172% */
+
+
+	color: #FFFFFF;
+
+}
+
+#AboutUs{
+	position: absolute;
+height: 52px;
+left: 179px;
+right: 46.92%;
+top: 238px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 52px;
+/* identical to box height, or 347% */
+
+
+color: #FFFFFF;
+}
+
+#FAQ{
+
+	position: absolute;
+height: 52px;
+left: 179px;
+right: 46.92%;
+top: 290px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 52px;
+/* identical to box height, or 347% */
+
+
+color: #FFFFFF;
+
+}
+
+#PressBlog{
+		position: absolute;
+height: 52px;
+left: 179px;
+right: 46.92%;
+top: 342px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 52px;
+/* identical to box height, or 347% */
+
+
+color: #FFFFFF;
+}
+
+#styleGuide{
+		position: absolute;
+height: 52px;
+left: 372px;
+right: 46.92%;
+top: 238px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 52px;
+/* identical to box height, or 347% */
+
+
+color: #FFFFFF;
+}
+
+#changeLog{
+			position: absolute;
+height: 52px;
+left: 372px;
+right: 46.92%;
+top: 293px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 52px;
+/* identical to box height, or 347% */
+
+
+color: #FFFFFF;
+}
+
+#lincense{
+				position: absolute;
+height: 52px;
+left: 372px;
+right: 46.92%;
+top: 345px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 52px;
+/* identical to box height, or 347% */
+
+
+color: #FFFFFF;
+}
+
+#flowerfinal{
+				position: absolute;
+height: 52px;
+left: 637px;
+right: 46.92%;
+top: 241px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 52px;
+/* identical to box height, or 347% */
+
+
+color: #FFFFFF;
+}
+
+#plantingfinal{
+				position: absolute;
+height: 52px;
+left: 637px;
+right: 46.92%;
+top: 293px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 52px;
+/* identical to box height, or 347% */
+
+
+color: #FFFFFF;
+}
+
+#wateringfinal{
+	position: absolute;
+height: 52px;
+left: 637px;
+right: 46.92%;
+top: 345px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 52px;
+/* identical to box height, or 347% */
+
+
+color: #FFFFFF;
+}
