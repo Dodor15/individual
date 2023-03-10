@@ -1,0 +1,275 @@
+#three{
+	position: absolute;
+height: 882px;
+left: 0%;
+right: 0%;
+top: 2247px;
+
+background: #E1F4F2;
+border-radius: 0px;
+}
+
+#our{
+	position: absolute;
+height: 30px;
+width: 100px;
+left: 200px;
+right: 86.84%;
+top:100px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 29px;
+/* identical to box height, or 172% */
+
+
+color: #777777;
+}
+
+#farmiz{
+	position: absolute;
+height: 116px;
+width: 1039px;
+left: 150px;
+right: 8.86%;
+top: 140px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* or 120% */
+
+
+color: #177165;
+}
+#ones{
+position: absolute;
+height: 248px;
+left: 150px;
+right: -0.2%;
+top: 308px;
+
+background: url(image/ones.png);
+background-repeat: no-repeat;
+border-radius: 0px;
+}
+
+#twos{
+position: absolute;
+height: 248px;
+left: 448px;
+right: -0.2%;
+top: 308px;
+
+background: url(image/twos.png);
+background-repeat: no-repeat;
+border-radius: 0px;
+}
+
+#threes{
+position: absolute;
+height: 248px;
+left: 745px;
+right: -0.2%;
+top: 308px;
+
+background: url(image/threes.png);
+background-repeat: no-repeat;
+border-radius: 0px;
+}
+
+#fours{
+position: absolute;
+height: 248px;
+left: 1043px;
+right: -0.2%;
+top: 308px;
+
+background: url(image/fours.png);
+background-repeat: no-repeat;
+border-radius: 0px;
+}
+
+#flower{
+	position: absolute;
+height: 26px;
+left: 150px;
+right: 60.81%;
+top: 585px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+/* identical to box height, or 173% */
+
+
+color: #777777;
+}
+
+#planting{
+	position: absolute;
+height: 26px;
+left: 448px;
+right: 60.81%;
+top: 585px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+/* identical to box height, or 173% */
+
+
+color: #777777;
+}
+
+#rush{
+	position: absolute;
+height: 26px;
+left: 745px;
+right: 60.81%;
+top: 585px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+/* identical to box height, or 173% */
+
+
+color: #777777;
+}
+
+#watering{
+	position: absolute;
+height: 26px;
+left: 1043px;
+right: 60.81%;
+top: 585px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+/* identical to box height, or 173% */
+
+
+color: #777777;
+}
+
+#plantingFlower{
+	position: absolute;
+height: 26px;
+width: 165px;
+left: 150px;
+right: 60.81%;
+top: 616px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 36px;
+/* identical to box height, or 162% */
+
+
+color: #177165;
+}
+#treePlanting{
+	position: absolute;
+height: 26px;
+width: 165px;
+left: 448px;
+right: 60.81%;
+top: 616px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 36px;
+/* identical to box height, or 162% */
+
+
+color: #177165;
+}
+
+#rushRemoval{
+	position: absolute;
+height: 26px;
+width: 165px;
+left: 745px;
+right: 60.81%;
+top: 616px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 36px;
+/* identical to box height, or 162% */
+
+
+color: #177165;
+}
+
+#gardenWatering{
+	position: absolute;
+height: 26px;
+width: 165px;
+left: 1043px;
+right: 60.81%;
+top: 616px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 36px;
+/* identical to box height, or 162% */
+
+
+color: #177165;
+}
+
+#greenButton2{
+	box-sizing: border-box;
+
+position: absolute;
+height: 44px;
+width: 212px;
+left: 837px;
+right: 3.32%;
+top: 725px;
+
+border: 2px solid #177165;
+border-radius: 0px;
+}
+
+#inButton2{
+	position: absolute;
+height: 26px;
+left: 30%;
+width: 212px;
+right: 69.71%;
+top: 20%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+color: #177165;
+}

@@ -1,0 +1,197 @@
+#aboutCompany{
+	position: absolute;
+height: 30px;
+left: 150px;
+right: 84.3%;
+top: 1003px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+/* identical to box height, or 162% */
+
+
+color: #777777;
+
+}
+
+#bigText{
+	position: absolute;
+height: 173px;
+left: 150px;
+width: 997px;
+right: 12.54%;
+top: 1043px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* or 120% */
+
+
+color: #177165;
+}
+
+#smile{
+	position: absolute;
+height: 872px;
+left: 150px;
+right: 51.12%;
+
+top: 1268px;
+
+background: url(image/smail.png);
+background-repeat: no-repeat;
+border-radius: 0px;
+}
+
+#whoWeAre{
+	position: absolute;
+height: 36px;
+width: 186px;
+left: 827px;
+right: 59.78%;
+top: 1337px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 35px;
+/* identical to box height, or 110% */
+
+
+color: #177165;
+}
+
+#oneMini{
+	position: absolute;
+height: 104px;
+left: 827px;
+right: 5.18%;
+top: 1399px;
+width: 439px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #777777;
+}
+
+#twoMini{
+	position: absolute;
+height: 120px;
+left: 827px;
+width: 439px;
+right: 5.4%;
+top: 1520px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+/* or 136% */
+
+
+color: #177165;
+}
+
+#threeMini{
+	position: absolute;
+height: 36px;
+left: 827px;
+right: 40.57%;
+width: 439px;
+top: 1676px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 35px;
+/* identical to box height, or 110% */
+
+
+color: #177165;
+}
+
+#fourMini{
+	position: absolute;
+height: 78px;
+left: 827px;
+width: 439px;
+right: 5.18%;
+top: 1745px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #777777;
+}
+
+#fiveMini{
+	position: absolute;
+height: 78px;
+left: 827px;
+width: 439px;
+right: 5.18%;
+top: 1864px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #777777;
+}
+
+#greenButton{
+	box-sizing: border-box;
+
+position: absolute;
+height: 44px;
+width: 212px;
+left: 837px;
+right: 3.32%;
+top: 2036px;
+
+border: 2px solid #177165;
+border-radius: 0px;
+}
+
+#inButton{
+	position: absolute;
+height: 26px;
+left: 30%;
+width: 212px;
+right: 69.71%;
+top: 20%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+color: #177165;
+}
